@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "brandName": "Samsung",
+    "title": "Galaxy S23 Ultra",
+    "image": "https://i.ibb.co/KNcXHfR/images.jpg"
+  },
+  {
+    "id": 2,
+    "brandName": "Apple",
+    "title": "Apple iPhone 15 Pro Max",
+    "image": "https://i.ibb.co/QmzDvWS/download.jpg"
+  },
+  {
+    "id": 3,
+    "brandName": "Google",
+    "title": "Google Pixel 7 Pro",
+    "image": "https://i.ibb.co/VH37VYX/google-pixel7-pro-3.jpg"
+  },
+  {
+    "id": 4,
+    "brandName": "Sony",
+    "title": "Sony Xperia 5 III",
+    "image": "https://i.ibb.co/XyX71vW/Sony-Xperia-5-IV-camera-hero.jpg"
+  },
+  {
+    "id": 5,
+    "brandName": "Xiomi",
+    "title": "Xiomi 13",
+    "image": "https://i.ibb.co/187VnRH/Xiaomi-13-Black-7962.jpg"
+  },
+  {
+    "id": 6,
+    "brandName": "Huawei",
+    "title": "Huawei P40",
+    "image": "https://i.ibb.co/ZRsckB0/download-1.jpg"
+  }
+]
